@@ -1,0 +1,9 @@
+[submodule "papa_delmont"]
+	path = papa_delmont
+	url = https://github.com/androbtech/papa_delmont
+[submodule "come_platzi"]
+	path = come_platzi
+	url = https://github.com/androbtech/come_platzi
+[submodule "come_platzi_web"]
+	path = come_platzi_web
+	url = https://github.com/androbtech/come_platzi_web
